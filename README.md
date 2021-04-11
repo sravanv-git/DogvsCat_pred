@@ -10,7 +10,7 @@ You can find the code [here](https://colab.research.google.com/drive/1mzhNDPz1E6
 
 
 
-|(No. of Conv2D filters/layers,size od filters,epoxy)    |loss|acc| val_loss|val_acc| prediction
+|(No. of Conv2D filters/layers,size od filters,epoch)    |loss|acc| val_loss|val_acc| prediction
 | ---- |------| ----|---|---|---
 | (9,3,8)  |0.0671           |0.9979    |  0.8085      | 0.673  |  -
 | (15,4,8)         |0.0294    |   0.9997     | 1.0386    |0.6260    |-
