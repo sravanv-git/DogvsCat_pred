@@ -7,5 +7,10 @@ Model Architecture:
 | (15,4,8)         |0.0294    |   0.9997     | 1.0386    |0.6260    |-
 | (15,3,8) |   0.0606     | 0.9973          |0.8133         |0.67907   | 1.0-cat,2.0-cat,3.1-cat
 
-**images** 
-![](https://github.com/sravanv-git/DogvsCat_pred/images/dogvscat1.jpg)
+**images**
+
+1.![](https://github.com/sravanv-git/DogvsCat_pred/blob/main/images/dogvscat1.png)   
+
+2.![](https://github.com/sravanv-git/DogvsCat_pred/blob/main/images/dogvscat2.png)
+
+3.![](https://github.com/sravanv-git/DogvsCat_pred/blob/main/images/dogvscat3.png)
