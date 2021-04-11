@@ -1,5 +1,9 @@
 # DogvsCat_pred
-Model Architecture:
+
+
+
+
+Model Summary:
 
 |(No. of Conv2D filters/layers,size od filters,epoxy)    |loss|acc| val_loss|val_acc| prediction
 | ---- |------| ----|---|---|---
