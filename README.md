@@ -2,8 +2,6 @@
 # Model Architecture:
 This cats vs Dogs predicts wheather a given image is cat or dog. Intially we preproces the data,we convert every image into Gray scale so that it will be easier to copute for the machine. Now we build a model using Conv2D networks and using activation function as 'relu'. we experiment with the no. of layers and finalise them by best accuracy.This model gave us an accuracy of 67% in identifying cat or dog.
 
-You can find the code [here](https://colab.research.google.com/drive/1mzhNDPz1E6kR677cAyzGXx6TdKz1n6_D?usp=sharing#scrollTo=5jhPa56U3Yk_&uniqifier=1)
-
 
 
 # Model Summary:
